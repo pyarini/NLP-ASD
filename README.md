@@ -71,8 +71,6 @@ This repo includes two notebooks to build/benchmark sarcasm detection approaches
 ### Kaggle (via `kagglehub`)
 - `danofer/sarcasm` (SARC-style Reddit sarcasm)
 
-> Additional datasets may be referenced in notebooks. Please comply with each dataset’s license/terms.
-
 ---
 
 ## Ethics & responsible research (important)
