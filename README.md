@@ -52,11 +52,11 @@ This repo includes two notebooks to build/benchmark sarcasm detection approaches
 2. **RoBERTa-Large baseline (TPU-safe)**: supervised training + evaluation in Colab/TPU
 
 ### Notebooks
-- **`SarcasmGPTBenchmark (1).ipynb`**
+- **`SarcasmGPTBenchmark.ipynb`**
   - Prompt-based sarcasm benchmark across datasets
   - Configurable prompt versions and metrics reporting
 
-- **`sarcasm_roberta_large_full_tpu (2).ipynb`**
+- **`sarcasm_roberta_large_full_tpu.ipynb`**
   - TPU-safe training pipeline for **RoBERTa-Large**
   - Produces evaluation metrics (e.g., accuracy/F1) and model outputs
 
